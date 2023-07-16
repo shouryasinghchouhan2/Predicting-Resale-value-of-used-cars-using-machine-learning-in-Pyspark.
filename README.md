@@ -9,7 +9,7 @@ With the rapid expansion of Machine Learning, this problem can also be solved by
 
 The dataset used for the purpose of this report was downloaded from 
 https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
-The data set consist of 4.5L Rows & 26 columns. 
+The data set consist of 4.5 Million Rows & 26 columns. 
 Some of the features used to predict the price are year , Region , Manufacturer , Model , Cylinder , Fuels , odometer , Transmission , Size Type , Paint Color  & Description. 
 
 ## Evaluation Metrics
