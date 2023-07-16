@@ -5,12 +5,14 @@ Sometimes selling your used car becomes crucial as we are not able to identify i
 
 With the rapid expansion of Machine Learning, this problem can also be solved by minimizing human efforts and time. Let’s see an end-to-end solution for a similar problem.
 
-Dataset Overview : 
+## Dataset Overview : 
 
 The dataset used for the purpose of this report was downloaded from 
 https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 The data set consist of 4.5L Rows & 26 columns. 
 Some of the features used to predict the price are year , Region , Manufacturer , Model , Cylinder , Fuels , odometer , Transmission , Size Type , Paint Color  & Description. 
+
+## Evaluation Metrics
 
 We shall be evaluating 3 machine learning techniques in this project - 
 Linear Regression
